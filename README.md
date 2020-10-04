@@ -4,13 +4,13 @@
 <br>
 <br>
 ＜IMG＞20656.jpg＜/IMG＞＜LIMIT＞2020/10/10＜/LIMIT＞<br>
-<img border="0" height="320" src="https://github.com/RedCatStudio/test/blob/main/imgs/20656.jpg" width="320">
+<img border="0" height="320" src="https://github.com/RedCatStudio/kfc/blob/main/imgs/20656.jpg" width="320">
 
 
 <br>
 <br>
 ＜IMG＞20676.jpg＜/IMG＞＜LIMIT＞2020/10/31＜/LIMIT＞<br>
-<img border="0" height="320" src="https://github.com/RedCatStudio/test/blob/main/imgs/20676.jpg" width="320">
+<img border="0" height="320" src="https://github.com/RedCatStudio/kfc/blob/main/imgs/20676.jpg" width="320">
 
 
 
