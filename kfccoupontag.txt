@@ -1,0 +1,11 @@
+¡ÕCOUPON_DATA¡Ö<br>
+¡ÕCOUPON_PAGE¡Öhttp://www.kfcclub.com.tw/tw/Coupon/¡Õ/COUPON_PAGE¡Ö<br>
+¡ÕCOUPON_IMAGE_URL¡Öhttps://storage.googleapis.com/kfcoosfs/¡Õ/COUPON_IMAGE_URL¡Ö<br>
+¡ÕCOUPON_SPLIT¡Ö¡Õdiv class="coupon"¡Ö¡Õ/COUPON_SPLIT¡Ö<br>
+¡ÕCOUPON_LIMIT_TIME_START¡Ö¡Õp¡Ö¨Ï¥Î´Á­­¡G¡Õ/COUPON_LIMIT_TIME_START¡Ö<br>
+¡ÕCOUPON_LIMIT_TIME_END¡Ö¡Õ/p¡Ö¡Õ/COUPON_LIMIT_TIME_END¡Ö<br>
+¡ÕIMAGE_START¡Ö¡Õimg src="https://storage.googleapis.com/kfcoosfs/¡Õ/IMAGE_START¡Ö<br>
+¡ÕIMAGE_END¡Ö.jpg¡Õ/IMAGE_END¡Ö<br>
+¡ÕIMAGE_LENGTH¡Ö100¡Õ/IMAGE_LENGTH¡Ö<br>
+¡ÕLIMIT_TIME_LENGTH¡Ö100¡Õ/LIMIT_TIME_LENGTH¡Ö<br>
+¡Õ/COUPON_DATA¡Ö
