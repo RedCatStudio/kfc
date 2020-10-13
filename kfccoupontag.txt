@@ -1,11 +1,11 @@
-°’COUPON_DATA°÷<br>
-°’COUPON_PAGE°÷http://www.kfcclub.com.tw/tw/Coupon/°’/COUPON_PAGE°÷<br>
-°’COUPON_IMAGE_URL°÷https://storage.googleapis.com/kfcoosfs/°’/COUPON_IMAGE_URL°÷<br>
-°’COUPON_SPLIT°÷°’div class="coupon"°÷°’/COUPON_SPLIT°÷<br>
-°’COUPON_LIMIT_TIME_START°÷°’p°÷®œ•Œ¥¡≠≠°G°’/COUPON_LIMIT_TIME_START°÷<br>
-°’COUPON_LIMIT_TIME_END°÷°’/p°÷°’/COUPON_LIMIT_TIME_END°÷<br>
-°’IMAGE_START°÷°’img src="https://storage.googleapis.com/kfcoosfs/°’/IMAGE_START°÷<br>
-°’IMAGE_END°÷.jpg°’/IMAGE_END°÷<br>
-°’IMAGE_LENGTH°÷100°’/IMAGE_LENGTH°÷<br>
-°’LIMIT_TIME_LENGTH°÷100°’/LIMIT_TIME_LENGTH°÷<br>
-°’/COUPON_DATA°÷
+ÔºúCOUPON_DATAÔºû<br>
+ÔºúCOUPON_PAGEÔºûhttp://www.kfcclub.com.tw/tw/Coupon/Ôºú/COUPON_PAGEÔºû<br>
+ÔºúCOUPON_IMAGE_URLÔºûhttps://storage.googleapis.com/kfcoosfs/Ôºú/COUPON_IMAGE_URLÔºû<br>
+ÔºúCOUPON_SPLITÔºûÔºúdiv class="coupon"ÔºûÔºú/COUPON_SPLITÔºû<br>
+ÔºúCOUPON_LIMIT_TIME_STARTÔºûÔºúpÔºû‰ΩøÁî®ÊúüÈôêÔºöÔºú/COUPON_LIMIT_TIME_STARTÔºû<br>
+ÔºúCOUPON_LIMIT_TIME_ENDÔºûÔºú/pÔºûÔºú/COUPON_LIMIT_TIME_ENDÔºû<br>
+ÔºúIMAGE_STARTÔºûÔºúimg src="https://storage.googleapis.com/kfcoosfs/Ôºú/IMAGE_STARTÔºû<br>
+ÔºúIMAGE_ENDÔºû.jpgÔºú/IMAGE_ENDÔºû<br>
+ÔºúIMAGE_LENGTHÔºû100Ôºú/IMAGE_LENGTHÔºû<br>
+ÔºúLIMIT_TIME_LENGTHÔºû100Ôºú/LIMIT_TIME_LENGTHÔºû<br>
+Ôºú/COUPON_DATAÔºû
