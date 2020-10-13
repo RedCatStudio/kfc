@@ -145,7 +145,7 @@
 <br>
 <br>
 ＜IMG＞20819.jpg＜/IMG＞＜LIMIT＞2021/01/31＜/LIMIT＞<br>
-<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/20819.jpg" width="320">
+<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/2081.jpg" width="320">
 
 
 <br>
