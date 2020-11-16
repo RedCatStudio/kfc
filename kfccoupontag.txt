@@ -1,5 +1,5 @@
 ＜COUPON_DATA＞<br>
-＜COUPON_PAGE＞http://www.kfcclub.com.tw/tw/Coupon/＜/COUPON_PAGE＞<br>
+＜COUPON_PAGE＞https://www.kfcclub.com.tw/Coupon/＜/COUPON_PAGE＞<br>
 ＜COUPON_IMAGE_URL＞https://storage.googleapis.com/kfcoosfs/＜/COUPON_IMAGE_URL＞<br>
 ＜COUPON_SPLIT＞＜div class="coupon"＞＜/COUPON_SPLIT＞<br>
 ＜COUPON_LIMIT_TIME_START＞＜p＞使用期限：＜/COUPON_LIMIT_TIME_START＞<br>
