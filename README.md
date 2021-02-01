@@ -233,6 +233,14 @@
 
 <br>
 <br>
+＜IMG＞21625.jpg＜/IMG＞＜LIMIT＞2021/06/30＜/LIMIT＞<br>
+<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/21625.jpg" width="320">
+
+
+
+
+<br>
+<br>
 ＜IMG＞21627.jpg＜/IMG＞＜LIMIT＞2021/05/31＜/LIMIT＞<br>
 <img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/21627.jpg" width="320">
 
@@ -251,11 +259,6 @@
 <img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/21648.jpg" width="320">
 
 
-
-<br>
-<br>
-＜IMG＞21652.jpg＜/IMG＞＜LIMIT＞2021/06/30＜/LIMIT＞<br>
-<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/21652.jpg" width="320">
 
 
 
