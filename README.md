@@ -304,4 +304,10 @@
 
 <br>
 <br>
+＜IMG＞40088.jpg＜/IMG＞＜LIMIT＞2021/03/01＜/LIMIT＞<br>
+<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/40088.jpg" width="320">
+
+
+<br>
+<br>
 ＜/COUPON_EXTRA＞
