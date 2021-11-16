@@ -1,5 +1,58 @@
 ＜COUPON_EXTRA＞<br>
 
+<br>
+<br>
+＜IMG＞40124.jpg＜/IMG＞＜LIMIT＞2021/11/30＜/LIMIT＞<br>
+<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/40124.jpg" width="320">
+
+<br>
+<br>
+＜IMG＞40193.jpg＜/IMG＞＜LIMIT＞2021/11/30＜/LIMIT＞<br>
+<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/40193.jpg" width="320">
+
+<br>
+<br>
+＜IMG＞40294.jpg＜/IMG＞＜LIMIT＞2021/11/30＜/LIMIT＞<br>
+<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/40294.jpg" width="320">
+
+<br>
+<br>
+＜IMG＞40283.jpg＜/IMG＞＜LIMIT＞2021/11/30＜/LIMIT＞<br>
+<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/40283.jpg" width="320">
+
+<br>
+<br>
+＜IMG＞40192.jpg＜/IMG＞＜LIMIT＞2021/11/30＜/LIMIT＞<br>
+<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/40192.jpg" width="320">
+
+<br>
+<br>
+＜IMG＞40166.jpg＜/IMG＞＜LIMIT＞2021/11/30＜/LIMIT＞<br>
+<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/40166.jpg" width="320">
+
+<br>
+<br>
+＜IMG＞40220.jpg＜/IMG＞＜LIMIT＞2021/11/30＜/LIMIT＞<br>
+<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/40220.jpg" width="320">
+
+<br>
+<br>
+＜IMG＞40181.jpg＜/IMG＞＜LIMIT＞2021/11/30＜/LIMIT＞<br>
+<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/40181.jpg" width="320">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br>
 <br>
