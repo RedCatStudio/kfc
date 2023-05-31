@@ -1,6 +1,6 @@
 ＜COUPON_DATA＞<br>
 ＜COUPON_PAGE＞https://www.kfcclub.com.tw/Coupon/＜/COUPON_PAGE＞<br>
-＜COUPON_IMAGE_URL＞https://storage.googleapis.com/kfcoosfs/＜/COUPON_IMAGE_URL＞<br>
+＜COUPON_IMAGE_URL＞https://kfcoosfs.kfcclub.com.tw/＜/COUPON_IMAGE_URL＞<br>
 ＜COUPON_SPLIT＞＜div class="coupon_prdimg"＞＜/COUPON_SPLIT＞<br>
 ＜COUPON_LIMIT_TIME_START＞＜p class="note"＞優惠期限到～＜/COUPON_LIMIT_TIME_START＞<br>
 ＜COUPON_LIMIT_TIME_END＞（期間限定商品除外）＜/p＞＜/COUPON_LIMIT_TIME_END＞<br>
