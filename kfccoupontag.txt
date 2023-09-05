@@ -1,10 +1,10 @@
 ＜COUPON_DATA＞<br>
-＜COUPON_PAGE＞https://www.kfcclub.com.tw/Coupon/＜/COUPON_PAGE＞<br>
-＜COUPON_IMAGE_URL＞https://kfcoosfs.kfcclub.com.tw/../＜/COUPON_IMAGE_URL＞<br>
-＜COUPON_SPLIT＞＜div class="coupon_prdimg"＞＜/COUPON_SPLIT＞<br>
-＜COUPON_LIMIT_TIME_START＞＜p class="note"＞優惠期限到～＜/COUPON_LIMIT_TIME_START＞<br>
-＜COUPON_LIMIT_TIME_END＞（期間限定商品除外）＜/p＞＜/COUPON_LIMIT_TIME_END＞<br>
-＜IMAGE_START＞＜img loading="lazy" src="https://kfcoosfs.kfcclub.com.＜/IMAGE_START＞<br>
+＜COUPON_PAGE＞https://www.kfcclub.com.tw/tw/Coupon/＜/COUPON_PAGE＞<br>
+＜COUPON_IMAGE_URL＞https://kfcoosfs.kfcclub.com.tw/＜/COUPON_IMAGE_URL＞<br>
+＜COUPON_SPLIT＞CouponID＜/COUPON_SPLIT＞<br>
+＜COUPON_LIMIT_TIME_START＞"EndDate": "＜/COUPON_LIMIT_TIME_START＞<br>
+＜COUPON_LIMIT_TIME_END＞",＜/COUPON_LIMIT_TIME_END＞<br>
+＜IMAGE_START＞"ImgNameNew": "<br>
 ＜IMAGE_END＞.jpg＜/IMAGE_END＞<br>
 ＜IMAGE_LENGTH＞100＜/IMAGE_LENGTH＞<br>
 ＜LIMIT_TIME_LENGTH＞100＜/LIMIT_TIME_LENGTH＞<br>
