@@ -96,16 +96,6 @@
 <br><br>
 
 <br><br>
-＜IMG＞40563%20%E9%99%90%E7%89%B9%E5%AE%9A%E9%A4%90%E5%BB%B320230824.jpg＜/IMG＞＜LIMIT＞2023-09-18＜/LIMIT＞<br>
-<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/40563%20%E9%99%90%E7%89%B9%E5%AE%9A%E9%A4%90%E5%BB%B320230824.jpg" width="320">
-<br><br>
-
-<br><br>
-＜IMG＞40564%20%E9%99%90%E5%AE%9A%E9%A4%90%E5%BB%B320230824.jpg＜/IMG＞＜LIMIT＞2023-09-18＜/LIMIT＞<br>
-<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/40564%20%E9%99%90%E5%AE%9A%E9%A4%90%E5%BB%B320230824.jpg" width="320">
-<br><br>
-
-<br><br>
 ＜IMG＞OLO-coupon-40565-20230822.jpg＜/IMG＞＜LIMIT＞2023-09-18＜/LIMIT＞<br>
 <img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/OLO-coupon-40565-20230822.jpg" width="320">
 <br><br>
@@ -126,18 +116,8 @@
 <br><br>
 
 <br><br>
-＜IMG＞50390%E7%9B%AE%E9%8C%84%E5%9C%9620230426.jpg＜/IMG＞＜LIMIT＞2023-09-18＜/LIMIT＞<br>
-<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/50390%E7%9B%AE%E9%8C%84%E5%9C%9620230426.jpg" width="320">
-<br><br>
-
-<br><br>
 ＜IMG＞OLO-coupon-50396-20230705.jpg＜/IMG＞＜LIMIT＞2023-09-18＜/LIMIT＞<br>
 <img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/OLO-coupon-50396-20230705.jpg" width="320">
-<br><br>
-
-<br><br>
-＜IMG＞%E9%9F%93%E5%BC%8FBN20230818.jpg＜/IMG＞＜LIMIT＞2023-09-25＜/LIMIT＞<br>
-<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/%E9%9F%93%E5%BC%8FBN20230818.jpg" width="320">
 <br><br>
 
 <br><br>
