@@ -1,4 +1,24 @@
 ＜COUPON_EXTRA＞<br>
+<br><br>
+＜IMG＞8FBN20230818.jpg＜/IMG＞＜LIMIT＞2023-09-18＜/LIMIT＞<br>
+<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/8FBN20230818.jpg" width="320">
+<br><br>
+
+<br><br>
+＜IMG＞40563.jpg＜/IMG＞＜LIMIT＞2023-09-18＜/LIMIT＞<br>
+<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/40563.jpg" width="320">
+<br><br>
+
+<br><br>
+＜IMG＞40564.jpg＜/IMG＞＜LIMIT＞2023-09-18＜/LIMIT＞<br>
+<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/40564.jpg" width="320">
+<br><br>
+
+<br><br>
+＜IMG＞50390.jpg＜/IMG＞＜LIMIT＞2023-09-18＜/LIMIT＞<br>
+<img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/50390.jpg" width="320">
+<br><br>
+
 
 <br><br>
 ＜IMG＞OLO-coupon-40442-20230705.jpg＜/IMG＞＜LIMIT＞2023-09-18＜/LIMIT＞<br>
