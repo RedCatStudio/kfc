@@ -1,5 +1,5 @@
 ＜COUPON_EXTRA＞<br>
-
+＜/COUPON_EXTRA＞
 
 
 <br>
@@ -205,4 +205,4 @@
 <br>
 <br>
 
-＜/COUPON_EXTRA＞
+
