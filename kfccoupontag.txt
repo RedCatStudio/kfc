@@ -1,4 +1,4 @@
-＜COUPON_DATA＞<br>
+＜COUPON_DATA＞<br>＜/COUPON_DATA＞
 ＜COUPON_PAGE＞https://www.kfcclub.com.tw/tw/Coupon/＜/COUPON_PAGE＞<br>
 ＜COUPON_IMAGE_URL＞https://kfcoosfs.kfcclub.com.tw/＜/COUPON_IMAGE_URL＞<br>
 ＜COUPON_SPLIT＞CouponID＜/COUPON_SPLIT＞<br>
@@ -8,4 +8,4 @@
 ＜IMAGE_END＞.jpg＜/IMAGE_END＞<br>
 ＜IMAGE_LENGTH＞100＜/IMAGE_LENGTH＞<br>
 ＜LIMIT_TIME_LENGTH＞100＜/LIMIT_TIME_LENGTH＞<br>
-＜/COUPON_DATA＞
+
