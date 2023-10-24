@@ -1,4 +1,5 @@
 ＜COUPON_EXTRA＞<br>
+＜/COUPON_EXTRA＞
 <br><br>
 ＜IMG＞8FBN20230818.jpg＜/IMG＞＜LIMIT＞2023-09-18＜/LIMIT＞<br>
 <img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/8FBN20230818.jpg" width="320">
@@ -369,6 +370,3 @@
 ＜IMG＞OLO-coupon-40508-20230705.jpg＜/IMG＞＜LIMIT＞2023-09-18＜/LIMIT＞<br>
 <img border="0" height="320" src="https://raw.githubusercontent.com/RedCatStudio/kfc/main/imgs/OLO-coupon-40508-20230705.jpg" width="320">
 <br><br>
-
-
-＜/COUPON_EXTRA＞
